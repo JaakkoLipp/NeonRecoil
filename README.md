@@ -2,6 +2,8 @@
 
 A neon-soaked, cyberpunk-inspired 2D platformer built in Unity. Guide your character through multiple levels of rooftop arenas and undercity corridors, blasting patrolling drones and outrunning malfunctioning security bots. Fight with precision-aimed projectiles, manage health and time, and compete for the highest score ever recorded.
 
+NOTE THIS REPO CONTAINS ONLY THE ASSETS FOLDER, i couldnt upload the full repo at this time. contact if needed.
+
 ---
 
 ## Key Features
